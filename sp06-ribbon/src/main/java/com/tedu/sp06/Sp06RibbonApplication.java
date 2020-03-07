@@ -16,6 +16,7 @@ public class Sp06RibbonApplication {
 	public RestTemplate getRestTemplate() {
 		return new RestTemplate();
 	}
+	//111
 	public static void main(String[] args) {
 		SpringApplication.run(Sp06RibbonApplication.class, args);
 	}
